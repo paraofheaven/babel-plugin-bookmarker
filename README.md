@@ -10,6 +10,7 @@ configurations in .babelrc would be compiled form the node_modules,and support f
     'react-loadable/babel'
   ]
  ```
- which will parse the node-modules/react-loadable/babel.
+ which will parse the node-modules/react-loadable/babel.js instead
  
 #### babel handhook
+it is too difficult to discuss here.
